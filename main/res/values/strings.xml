@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Personality Predictor</string>
+    <string name="text_requirement">Enter minimum 10 sentences:</string>
+    <string name="tv_predict">Predict</string>
+    <string name="tv_your_type">Your personality type:</string>
+    <string name="read_about_type">Read about this type</string>
+
+    <string name="error_empty_text">Empty text. Write minimum 10 sentences</string>
+    <string name="error_min_10">Write minimum 10 sentences</string>
+    <string name="text_upload_image">\tUpload image</string>
+    <string name="predicting_by_image">Predicting by image</string>
+    <string name="predicting_by_text">Predicting by text</string>
+    <string name="by_text">\tBy text</string>
+    <string name="by_image">\tBy image</string>
+</resources>
